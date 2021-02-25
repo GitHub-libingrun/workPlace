@@ -1,0 +1,8 @@
+__pycache__
+*.pyc
+*.log
+*.lock
+.idea
+*/*.pyc
+roborDemo/*.xml
+roborDemo/*.html
